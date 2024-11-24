@@ -1,58 +1,50 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+This project focuses on leveraging machine learning techniques to identify and mitigate botnet activities within networks. Botnets, networks of compromised devices controlled by attackers, pose significant threats to cybersecurity. The system employs advanced algorithms to analyze traffic patterns, detect anomalies, and classify malicious activities in real-time
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+This project aims to develop a machine learning-based system to detect botnet activities in networks. Botnets are collections of compromised devices under the control of attackers, often used for malicious purposes such as DDoS attacks, data theft, and spam distribution. Detecting botnets is challenging due to their dynamic and stealthy behavior.Implementing the trained model in a real-time monitoring system to analyze live traffic and flag potential botnet activities.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Algorithm Flexibility.
+- Low False Positives.
+- Anomaly Detection.
+- Real-Time Analysis
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Supports various machine learning techniques (e.g., Random Forest, SVM, Neural Networks) to enhance detection rates.
+* Focuses on key network characteristics like traffic patterns, packet sizes, and protocol usage to improve model accuracy.
+* Identifies unusual behavior in traffic, which could indicate new or evolving botnet activities.
+* Designed to handle large volumes of data, making it suitable for enterprise and ISP-level networks.
+* Provides the capability to analyze live network data for timely detection of malicious activities.
+* Uses machine learning models to automatically identify botnet patterns in network traffic.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![system architecture](https://github.com/user-attachments/assets/1003d81e-ba20-428c-8732-536f36b78fe3)
 
 
-## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+### Output1 - Name of the output
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![output 1](https://github.com/user-attachments/assets/ff7883c7-5caa-4036-ba05-9a367640524f)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 1.0%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The system achieves high accuracy in identifying botnet activities by leveraging machine learning algorithms, significantly outperforming traditional signature-based detection methods.Strengthens network defenses by proactively detecting and mitigating botnet threats before they escalate.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. A. Kumar and S. Verma, “Real-Time Botnet Detection Using Deep Learning Algorithms ”, IEEE, vol. 10, Mar. 2023.
+2. R. Sharma and P. Gupta, “Hybrid Botnet Detection System Using Ensemble Learning Techniques”, Data Science Insights,Year of publish 2023.
 
 
 
